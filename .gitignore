@@ -1,0 +1,12 @@
+# Файлы симуляторов
+work/
+transcript
+*.wlf
+*.ucdb
+*.vvp
+*.vcd
+vsim.dbg
+obj_dir/
+coverage.dat
+coverage_*.txt
+coverage/
